@@ -1,5 +1,5 @@
 package gomodule
 
 func SayHello() string {
-	return "Hello"
+	return "Hello, this is from module"
 }
